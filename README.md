@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, I'm Duda!
 
-<!--
-**auntduda/auntduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello world! <img src="assets/Earth.gif" width="30px">
 
-Here are some ideas to get you started:
+- ✍ I'm a Computer Scientist at UnB (Universidade de Brasília).
+- :computer: I’m currently learning Cybersecurity so I can become a specialist in Criptography methods and pursue a career as a Blue Team member
+- :construction_worker: I'm currently a Data Engineer intern at Observatório Nacional da Indústria (CNI)
+- :pencil: Trying to enter a Master's Program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :mag_right: How to reach me: 
+
+- Email: auntduda@gmail.com
+- [Linkedin](https://www.linkedin.com/in/dev-cs-maria-eduarda/)
