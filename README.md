@@ -10,4 +10,4 @@
 ## :mag_right: How to reach me: 
 
 - Email: auntduda@gmail.com
-- [Linkedin](https://www.linkedin.com/in/dev-cs-maria-eduarda/)
+- [LinkedIn](https://www.linkedin.com/in/dev-cs-maria-eduarda/)
